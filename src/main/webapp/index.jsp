@@ -15,7 +15,7 @@
     <h2>NETFLIX SIGN IN V-11.0</h2>
         <form action="#">
             <div class="form-control">
-                <input type="text" required>
+                <input type="text" requ1ired>
                 <label>Mobile number</label>
             </div>
             <div class="form-control">
